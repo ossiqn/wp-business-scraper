@@ -1,4 +1,4 @@
-# ALOBUL.COM — Google İşletme Botu v2 (Python)
+# OSSIQN — Google İşletme Botu v2 (Python)
 
 ## ⚡ Hızlı Başlangıç (3 Adım)
 
@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ### 2. config.py Dosyasını Aç ve Doldur
 ```python
 GOOGLE_API_KEY = "AIzaSy..."          # Google Cloud → Places API anahtarınız
-WP_URL         = "https://alobul.com" # Sitenizin adresi
+WP_URL         = "https://kendidomaininiz.com" # Sitenizin adresi
 WP_USER        = "admin"              # WordPress kullanıcı adınız
 WP_PASS        = "xxxx xxxx xxxx"     # WordPress → Uygulama Şifresi
 ```
